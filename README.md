@@ -2,7 +2,7 @@ This is rest API application with Node.js and Express.js for the backend and Rea
 
 ## env
 NODE_ENV = "development"
-PORT = "5001"
+PORT = "6000"
 MONGO_URI = ""
 JWT_SECRET = ""
 BASE_URL  = ""
